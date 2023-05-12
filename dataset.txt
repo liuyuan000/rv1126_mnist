@@ -1,0 +1,11 @@
+/home/alientek/atk/mnist/data/minst/0/test_3.png
+/home/alientek/atk/mnist/data/minst/0/test_10.png
+/home/alientek/atk/mnist/data/minst/0/test_13.png
+/home/alientek/atk/mnist/data/minst/0/test_25.png
+/home/alientek/atk/mnist/data/minst/0/test_28.png
+/home/alientek/atk/mnist/data/minst/0/test_55.png
+/home/alientek/atk/mnist/data/minst/0/test_69.png
+/home/alientek/atk/mnist/data/minst/0/test_7.png
+/home/alientek/atk/mnist/data/minst/0/test_101.png
+/home/alientek/atk/mnist/data/minst/0/test_126.png
+
